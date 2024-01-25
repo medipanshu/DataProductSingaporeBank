@@ -4,7 +4,7 @@
 
 In this project, I have created a data product that revolves around the credit landscape dataset of a large Singapore bank. The primary focus is on integrating diverse aspects of Data Analytics, Statistics, and Machine Learning to derive meaningful insights and predictions related to credit payment default.
 
-![overview](01_Overview/overview.png)
+![overview](01_Overview/Overview.png)
 
 ## Technical Deliverables Completed
 
