@@ -69,6 +69,7 @@ The project follows a structured methodology that involves:
 ## Technologies Used
 
 - **Programming Language:** Python
+- **Tool:** Power BI
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
 - **Machine Learning Models:** Decision Trees, Random Forest, Logistic Regression, XGBoost
 
